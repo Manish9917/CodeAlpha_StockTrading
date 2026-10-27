@@ -1,0 +1,17 @@
+# Compiled Java files
+out/
+*.class
+
+# Local user database
+users.db
+users.db-shm
+users.db-wal
+
+# Saved user portfolios
+portfolio*.dat
+
+# IDE and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

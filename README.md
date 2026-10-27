@@ -63,10 +63,8 @@ javac -version
 
 ### 1. Clone the Repository
 
-Replace `<your-github-username>` with your GitHub username.
-
 ```bash
-git clone https://github.com/<your-github-username>/CodeAlpha_StockTrading.git
+git clone https://github.com/Manish9917/CodeAlpha_StockTrading.git
 ```
 
 Move into the project directory:

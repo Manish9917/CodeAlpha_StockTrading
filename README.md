@@ -14,6 +14,20 @@ A desktop-based Stock Trading Platform developed using **Java Swing** and **SQLi
 - **Data Persistence** — Save user portfolio information between application sessions.
 - **Desktop GUI** — Interactive graphical interface built with Java Swing.
 
+## 📸 Application Screenshots
+
+### 🔐 Login Page
+
+Users can log in to their accounts or create a new account to access the stock trading simulator.
+
+![Stock Trading Platform Login Page](screenshots/Login-page.jpg)
+
+### 📊 Main Dashboard
+
+The dashboard displays sample stock prices, market overview cards, available cash balance, portfolio summary, and options to buy or sell stocks.
+
+![Stock Trading Platform Dashboard](screenshots/Dashboard.jpg)
+
 ## 🛠️ Technologies Used
 
 - **Java** — Core application logic and object-oriented programming.
@@ -125,8 +139,9 @@ Potential future enhancements include:
 
 ## 👨‍💻 Author
 
-Developed as a Java desktop application project.
+**Manish Maurya**  
+Aspiring Full Stack Developer | Learning Java and Software Development
 
----
+Passionate about building software applications, strengthening programming fundamentals, and continuously learning new technologies to grow as a Full Stack Developer.
 
 ⭐ If you find this project useful, consider giving the repository a star on GitHub.
